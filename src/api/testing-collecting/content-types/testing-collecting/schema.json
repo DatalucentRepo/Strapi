@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "testing_collectings",
+  "info": {
+    "singularName": "testing-collecting",
+    "pluralName": "testing-collectings",
+    "displayName": "testing-collecting"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "testshorttext": {
+      "type": "string"
+    }
+  }
+}
